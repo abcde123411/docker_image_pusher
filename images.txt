@@ -1,1 +1,1 @@
-busybox:stable-musl
+aquasec/trivy-db:2
