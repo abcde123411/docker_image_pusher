@@ -1,2 +1,3 @@
 # aquasec/trivy-db:2
-python:3.4-alpine
+# python:3.4-alpine
+alpine:latest
