@@ -1,4 +1,1 @@
-# aquasec/trivy-db:2
-# python:3.4-alpine
-# alpine:latest
-anchore/grype:latest
+n8nio/n8n:next
