@@ -1,1 +1,2 @@
-n8nio/n8n:next
+# n8nio/n8n:next
+jumpserver/jms_all:latest
