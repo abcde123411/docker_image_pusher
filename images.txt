@@ -1,4 +1,5 @@
 # n8nio/n8n:next
 # jumpserver/jms_all:latest
 
-jumpserver/jms_all:v3.10.10
+# jumpserver/jms_all:v3.10.10
+flannel/flannel:v0.28.1
