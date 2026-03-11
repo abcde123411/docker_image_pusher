@@ -2,4 +2,6 @@
 # jumpserver/jms_all:latest
 
 # jumpserver/jms_all:v3.10.10
-flannel/flannel:v0.28.1
+# flannel/flannel:v0.28.1
+
+laniksj/dfimage:latest
