@@ -1,4 +1,5 @@
 # weishaw/sub2api:latest
 # postgres:18-alpine
 # redis:8-alpine
-mysql:8.0.29-oracle
+# mysql:8.0.29-oracle
+wordpress:php8.2-apache
