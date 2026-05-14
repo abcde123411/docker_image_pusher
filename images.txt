@@ -2,4 +2,5 @@
 # postgres:18-alpine
 # redis:8-alpine
 # mysql:8.0.29-oracle
-wordpress:php8.2-apache
+# wordpress:php8.2-apache
+n8nio/n8n:latest
