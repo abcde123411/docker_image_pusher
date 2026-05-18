@@ -5,4 +5,5 @@
 # wordpress:php8.2-apache
 # n8nio/n8n:latest
 # n8nio/n8n:nightly-amd64
-alpine:3.22
+# alpine:3.22
+n8nio/runners:latest
