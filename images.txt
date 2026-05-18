@@ -4,4 +4,5 @@
 # mysql:8.0.29-oracle
 # wordpress:php8.2-apache
 # n8nio/n8n:latest
-n8nio/n8n:nightly-amd64
+# n8nio/n8n:nightly-amd64
+alpine:3.22
