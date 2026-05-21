@@ -24,4 +24,5 @@
 # oceanbase/oceanbase-ce:4.3.5-lts
 # oceanbase/seekdb:latest
 # langgenius/qdrant:v1.8.3
-pgvector/pgvector:pg16
+# pgvector/pgvector:pg16
+valkey/valkey:8
