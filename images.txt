@@ -20,4 +20,5 @@
 # ubuntu/squid:latest
 # certbot/certbot
 # nginx:latest
-semitechnologies/weaviate:1.27.0
+# semitechnologies/weaviate:1.27.0
+oceanbase/oceanbase-ce:4.3.5-lts
