@@ -8,4 +8,5 @@
 # alpine:3.22
 # n8nio/runners:latest
 # n8nio/n8n:1.90.2
-n8nio/n8n:1.122.1-amd64
+# n8nio/n8n:1.122.1-amd64
+busybox:latest
