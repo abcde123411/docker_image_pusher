@@ -11,4 +11,5 @@
 # n8nio/n8n:1.122.1-amd64
 # busybox:latest
 # langgenius/dify-api:1.14.2
-langgenius/dify-web:1.14.2
+# langgenius/dify-web:1.14.2
+postgres:15-alpine
