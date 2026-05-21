@@ -13,4 +13,5 @@
 # langgenius/dify-api:1.14.2
 # langgenius/dify-web:1.14.2
 # postgres:15-alpine
-mysql:8.0
+# mysql:8.0
+redis:6-alpine
