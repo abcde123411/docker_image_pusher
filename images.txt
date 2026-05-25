@@ -28,4 +28,5 @@
 # valkey/valkey:8
 # elasticsearch:8.11.3
 # infiniflow/ragflow:latest
-mysql:8.0.39
+# mysql:8.0.39
+infiniflow/text-embeddings-inference:cpu-1.8
