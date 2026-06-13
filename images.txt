@@ -32,4 +32,5 @@
 # infiniflow/text-embeddings-inference:cpu-1.8
 # infiniflow/infinity:v0.7.0
 # infiniflow/ragflow:v0.25.5
-milvusdb/milvus:2.6-20260526-3d2591bf-amd64
+# milvusdb/milvus:2.6-20260526-3d2591bf-amd64
+sagemath/sagemath:latest
